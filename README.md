@@ -181,6 +181,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Sonny Sangha](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA) Project Tutorials on React, Redux, Next JS & React Native![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [WB Web Development](https://www.youtube.com/c/WBWeb/) - Tutorials on HTML, CSS, Bootstrap, SASS, JavaScript, Git and GitHub, MongoDB, NodeJS, ReactJS ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers)- Top class contents on front end web development. Has exclusive tutorials on HTML,CSS and javascript with amazing effects. A must visit for all front end developers![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Thapa Technicals](https://www.youtube.com/c/ThapaTechnical) - Tutorials on HTML, CSS, Javascript, figma, Next js, Firebase, Node JS, React, Firebase, PHP, SQL, MERN stack developement, hosting and a lot more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
